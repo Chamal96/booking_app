@@ -1,0 +1,10 @@
+gradio
+openai
+faiss-cpu
+tqdm
+sentence-transformers
+langchain
+langchain_community
+python-dotenv
+numpy
+langchain-openai
