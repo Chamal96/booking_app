@@ -1,0 +1,23 @@
+[
+  {
+    "hotel_name": "Sunset Paradise Hotel",
+    "guest_name": "Alex",
+    "check_in_date": "August 5",
+    "nights": "2",
+    "user_request": "breakfast included"
+  },
+  {
+    "hotel_name": "City Lights Inn",
+    "guest_name": "Chamal",
+    "check_in_date": "July 11",
+    "nights": "one",
+    "user_request": "Free Wi-Fi"
+  },
+  {
+    "hotel_name": "Tropical Escape Resort",
+    "guest_name": "Maya",
+    "check_in_date": "next Friday",
+    "nights": "3",
+    "user_request": "one room"
+  }
+]

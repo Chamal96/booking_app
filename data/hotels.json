@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Sunset Paradise Hotel",
+    "location": "colombo",
+    "description": "Nestled along the golden coastline, Sunset Paradise Hotel offers comfortable rooms with stunning ocean views, free Wi-Fi, and friendly service. Guests can relax by the outdoor pool, enjoy delicious local cuisine at the on-site restaurant, and explore nearby attractions. Perfect for both leisure and business travelers, the hotel combines convenience and relaxation for a memorable stay.",
+    "price_per_night": "2500",
+    "amenities": "Free Wi-Fi, Swimming Pool, Air Conditioning, Restaurant, Room Service, Fitness Center, Spa, Free Parking, Airport Shuttle, 24-Hour Front Desk, Laundry Service, Beach Access, Bar, Conference Rooms, Daily Housekeeping"
+  },
+  {
+    "name": "Ocean Breeze Resort",
+    "location": "Galle",
+    "description": "Overlooking the turquoise waters of the southern coast, Ocean Breeze Resort invites guests to unwind in elegant rooms with private balconies and modern amenities. With an infinity pool, gourmet dining, and easy beach access, it\u2019s the ideal retreat for couples and families. The resort blends luxury and comfort to ensure a peaceful escape.",
+    "price_per_night": "3200",
+    "amenities": "Free Wi-Fi, Infinity Pool, Air Conditioning, Restaurant, Room Service, Spa, Free Parking, Airport Shuttle, 24-Hour Front Desk, Fitness Center, Bar, Laundry Service, Beach Access, Daily Housekeeping, Tour Desk"
+  },
+  {
+    "name": "Hilltop Heritage Hotel",
+    "location": "Kandy",
+    "description": "Perched in the scenic hills of Kandy, Hilltop Heritage Hotel offers cozy, colonial-style rooms with panoramic views of the valley. Guests can enjoy authentic Sri Lankan cuisine, take a dip in the serene pool, or explore the city's cultural landmarks just minutes away. Ideal for a relaxing mountain getaway.",
+    "price_per_night": "2800",
+    "amenities": "Free Wi-Fi, Swimming Pool, Air Conditioning, Restaurant, Room Service, Spa, Free Parking, Airport Shuttle, 24-Hour Front Desk, Laundry Service, Mountain Views, Bar, Conference Rooms, Daily Housekeeping"
+  },
+  {
+    "name": "City Lights Inn",
+    "location": "Colombo",
+    "description": " Located in the heart of the city, City Lights Inn provides a stylish urban retreat with modern rooms, high-speed internet, and a rooftop lounge. Whether you're in town for business or pleasure, enjoy quick access to shopping, dining, and entertainment districts.",
+    "price_per_night": "2200",
+    "amenities": "Free Wi-Fi, Rooftop Bar, Air Conditioning, Restaurant, Room Service, Fitness Center, Free Parking, Business Center, 24-Hour Front Desk, Laundry Service, Conference Rooms, City View, Daily Housekeeping"
+  },
+  {
+    "name": "Tranquil Bay Hotel",
+    "location": "Trincomalee",
+    "description": "Set along the serene beaches of Trincomalee, Tranquil Bay Hotel is a paradise for beach lovers and nature seekers. The spacious rooms feature sea views, and the beachfront restaurant serves fresh seafood daily. Perfect for those looking to disconnect and recharge.",
+    "price_per_night": "2400",
+    "amenities": " Free Wi-Fi, Beach Access, Air Conditioning, Restaurant, Room Service, Free Parking, Outdoor Pool, Airport Shuttle, 24-Hour Front Desk, Bar, Spa, Daily Housekeeping, Snorkeling Tours, Laundry Service"
+  },
+  {
+    "name": "Forest Edge Lodge",
+    "location": "Nuwara Eliya",
+    "description": "Tucked amidst lush tea plantations, Forest Edge Lodge offers a cozy countryside stay with wooden interiors, fireplaces, and garden views. Guests can enjoy fresh mountain air, guided hikes, and freshly brewed Ceylon tea from nearby estates. Ideal for a peaceful nature retreat.",
+    "price_per_night": "2600",
+    "amenities": "Free Wi-Fi, Heating, Garden View, Restaurant, Room Service, Free Parking, Fireplace Rooms, Hiking Trails, Airport Shuttle, 24-Hour Front Desk, Laundry Service, Daily Housekeeping, Library, Tea Tasting Sessions"
+  },
+  {
+    "name": "Crawn Regency",
+    "location": "Kottawa",
+    "description": "Tucked amidst lush tea plantations, Forest Edge Lodge offers a cozy countryside stay with wooden interiors, fireplaces, and garden views. Guests can enjoy fresh mountain air, guided hikes, and freshly brewed Ceylon tea from nearby estates. Ideal for a peaceful nature retreat.\n",
+    "price_per_night": 3500.0,
+    "amenities": "\" Free Wi-Fi, Beach Access, Air Conditioning, Restaurant, Room Service, Free Parking, Outdoor Pool, Airport Shuttle, 24-Hour Front Desk, Bar, Spa, Daily Housekeeping, Snorkeling Tours, Laundry Service"
+  }
+]
