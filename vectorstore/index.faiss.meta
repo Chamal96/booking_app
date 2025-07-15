@@ -1,0 +1,68 @@
+[
+  {
+    "type": "booking",
+    "vector_text": "one room",
+    "data": {
+      "hotel_name": "Tropical Escape Resort",
+      "guest_name": "Maya",
+      "check_in_date": "next Friday",
+      "nights": "3",
+      "user_request": "one room"
+    }
+  },
+  {
+    "type": "registration",
+    "vector_text": "Crawn Regency. Kottawa. Tucked amidst lush tea plantations, Forest Edge Lodge offers a cozy countryside stay with wooden interiors, fireplaces, and garden views. Guests can enjoy fresh mountain air, guided hikes, and freshly brewed Ceylon tea from nearby estates. Ideal for a peaceful nature retreat.\n. 3500.0. \" Free Wi-Fi, Beach Access, Air Conditioning, Restaurant, Room Service, Free Parking, Outdoor Pool, Airport Shuttle, 24-Hour Front Desk, Bar, Spa, Daily Housekeeping, Snorkeling Tours, Laundry Service",
+    "data": {
+      "name": "Crawn Regency",
+      "location": "Kottawa",
+      "description": "Tucked amidst lush tea plantations, Forest Edge Lodge offers a cozy countryside stay with wooden interiors, fireplaces, and garden views. Guests can enjoy fresh mountain air, guided hikes, and freshly brewed Ceylon tea from nearby estates. Ideal for a peaceful nature retreat.\n",
+      "price_per_night": 3500.0,
+      "amenities": "\" Free Wi-Fi, Beach Access, Air Conditioning, Restaurant, Room Service, Free Parking, Outdoor Pool, Airport Shuttle, 24-Hour Front Desk, Bar, Spa, Daily Housekeeping, Snorkeling Tours, Laundry Service"
+    }
+  },
+  {
+    "type": "booking",
+    "vector_text": "breakfast included",
+    "data": {
+      "hotel_name": "Sunset Paradise Hotel",
+      "guest_name": "Alex",
+      "check_in_date": "August 5",
+      "nights": "2",
+      "user_request": "breakfast included"
+    }
+  },
+  {
+    "type": "booking",
+    "vector_text": "breakfast included",
+    "data": {
+      "hotel_name": "Sunset Paradise Hotel",
+      "guest_name": "Alex",
+      "check_in_date": "August 5",
+      "nights": "2",
+      "user_request": "breakfast included"
+    }
+  },
+  {
+    "type": "booking",
+    "vector_text": "Free Wi-Fi",
+    "data": {
+      "hotel_name": "City Lights Inn",
+      "guest_name": "Chamal",
+      "check_in_date": "July 11",
+      "nights": "one",
+      "user_request": "Free Wi-Fi"
+    }
+  },
+  {
+    "type": "booking",
+    "vector_text": "one room",
+    "data": {
+      "hotel_name": "Tropical Escape Resort",
+      "guest_name": "Maya",
+      "check_in_date": "next Friday",
+      "nights": "3",
+      "user_request": "one room"
+    }
+  }
+]
